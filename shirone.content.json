@@ -1,0 +1,15 @@
+{
+	"schemaVersion": 1,
+	"source": {
+		"type": "path",
+		"path": "../Shirone-Content"
+	},
+	"mounts": {
+		"content": "src/content",
+		"data": "src/data",
+		"assets": "src/assets",
+		"public": "public"
+	},
+	"keep": [],
+	"prune": true
+}
